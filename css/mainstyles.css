@@ -1,0 +1,22 @@
+.pad {
+    width: 60%;
+    background-color: rgb(248, 199, 138);
+    padding: 2%;
+    padding-bottom: 5%;
+    margin: 0 auto;
+    box-shadow: 10px 10px 10px;
+}
+
+.content-centerer {
+    width: 100%;
+    display: flex;
+}
+
+body {
+    background-color: bisque;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
